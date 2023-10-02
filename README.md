@@ -15,9 +15,10 @@ All examples of this I found either made it needlessly complex, or didn't have a
 
 ### **Here is a quick demo:**
 
-https://github.com/LieutenantTeaTM/Ooba-Text-Adventure/assets/112296448/cd03e773-a63c-4d9b-b3da-2907908a7e04
+![example](https://github.com/LieutenantTeaTM/Ooba-Text-Adventure/assets/112296448/ffac992e-586e-4792-9916-ed19eddde526)
 
 All of this is generated on the spot by the LLM, including the title and story. And it has memory of the entire chat.
+
 
 ## Install & Setup
 
