@@ -54,5 +54,5 @@ If you're still having issues with the openai api see Oobabooga's official docum
 - The AI often repeats words or phrases
 - The AI will sometimes derail/forget the chat
 - Titles are sometimes unreadable
-- The titles have nothing to do with the actual gane or plot
+- The titles have nothing to do with the actual game or plot
 - Only a fantasy theme, which makes it feel repetitive and lacking sometimes
