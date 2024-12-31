@@ -1,3 +1,6 @@
+#⚠️ DOES NOT WORK IN NEWER VERSIONS OF OOBA ⚠️
+**Oobabooga has updated their API rendering this obsolete. Eventually I plan to make a rewrite or successor with more features**
+
 # Ooba-Text-Adventure
 **Quick and simple 100% AI generated text adventure game using Oobabooga WebUI as a backend.**
 
